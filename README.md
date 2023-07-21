@@ -8,7 +8,9 @@ Developers can utilize third-party APIs to access external data and functionalit
 
 
 ## Screenshots<br>
-![Screenshot-01-Weather-Dashboard](https://github.com/eleazarf/Weather-Dashboard/blob/main/assets/images/Screen%20Shot%202023-07-13%20at%2010.58.03%20PM.png)<br>
+![Screenshot-01-Weather-Dashboard](https://github.com/eleazarf/Weather-Dashboard/blob/main/assets/images/Screen%20Shot%202023-07-20%20at%208.58.42%20PM.png)<br>
+![Screenshot-02-Weather-Dashboard](https://github.com/eleazarf/Weather-Dashboard/blob/main/assets/images/Screen%20Shot%202023-07-20%20at%208.58.57%20PM.png)<br>
+![Screenshot-03-Weather-Dashboard](https://github.com/eleazarf/Weather-Dashboard/blob/main/assets/images/Screen%20Shot%202023-07-20%20at%208.59.09%20PM.png)<br>
 
 ## link to the project <br>
 https://eleazarf.github.io/Weather-Dashboard/<br>
